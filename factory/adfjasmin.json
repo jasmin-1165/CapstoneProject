@@ -1,9 +1,0 @@
-{
-	"name": "adfjasmin",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "af66842b-4ddb-4c3f-bd62-e91e48b88808",
-		"tenantId": "2d2199a8-cb98-4269-b2ae-c63cf2b7c7f0"
-	}
-}
